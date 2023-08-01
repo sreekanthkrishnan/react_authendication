@@ -1,4 +1,5 @@
 import MainRouter from "./Components/Routers/MainRouter";
+import "./Assets/Css/Style.css";
 
 function App() {
 	return (
